@@ -2,12 +2,6 @@
 > Bike Rental Linear Regression Model
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
 
 ## General Information
 - This project is about to bulid a model for the shared bike company to see how the demand varies accross feature of the model. 
